@@ -30,7 +30,7 @@ JS Requirement 1
 
         I met this requirement by including a contact form that allows for user input, if the format of the email address or phone number is not entered correctly it will display an error message.
 
-            ***This is a work in progress I have decided to stop tinkering with this to ensure my last push is before the deadline, it works but I realize it is not pretty***
+            
 
 
 ***TESTING
