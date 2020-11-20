@@ -121,8 +121,8 @@
 
   
 
-/* The navigation bar */
-@media (min-width:500px){
+/* The navigation bar media query set for mobile first */
+@media (min-width:320px){
 .navbar {
 	display: flex;
 	flex-direction: column;
@@ -203,7 +203,7 @@
 		width: 90%;
  }
 
-
+/* media query for nav xhange to tablet */
 @media (min-width: 768px){
 	.navbar,
 .navmen {
@@ -218,7 +218,7 @@
 	
 }
 }
-
+/* media query for nav and container to switch to desktop */
 @media (min-width: 1000px){
 .container{
 	display: flex;
