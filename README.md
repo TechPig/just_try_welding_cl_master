@@ -1,6 +1,8 @@
 # just_try_welding_cl_master
 
-This is a simple website that gives basic information on the different processes of welding, basic safety information, and some information on how to get started as a hobby with a reccomendation for a beginner welder.  This project will continue to grow as I develop more skills.
+This is a simple website that gives basic information on the different processes of welding, basic safety information, and some information on how to get started as a hobby with a reccomendation for a beginner welder.  This project will continue to grow as I develop more skills.  This website is designed mobile first and has 3 media queries to offer a better user experience for a mobile, tablet, and desktop view.
+
+This project has had a minimum of 5 commits to github
 
 CSS Requirement 1
     
